@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Profit_Calculation\bin\Debug\net9.0\Profit_Calculation.exe
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Profit_Calculation\bin\Debug\net9.0\Profit_Calculation.deps.json
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Profit_Calculation\bin\Debug\net9.0\Profit_Calculation.runtimeconfig.json
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Profit_Calculation\bin\Debug\net9.0\Profit_Calculation.dll
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Profit_Calculation\bin\Debug\net9.0\Profit_Calculation.pdb
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Profit_Calculation\obj\Debug\net9.0\Profit_Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Profit_Calculation\obj\Debug\net9.0\Profit_Calculation.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Profit_Calculation\obj\Debug\net9.0\Profit_Calculation.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Profit_Calculation\obj\Debug\net9.0\Profit_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Profit_Calculation\obj\Debug\net9.0\Profit_Calculation.sourcelink.json
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Profit_Calculation\obj\Debug\net9.0\Profit_Calculation.dll
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Profit_Calculation\obj\Debug\net9.0\refint\Profit_Calculation.dll
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Profit_Calculation\obj\Debug\net9.0\Profit_Calculation.pdb
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Profit_Calculation\obj\Debug\net9.0\Profit_Calculation.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Profit_Calculation\obj\Debug\net9.0\ref\Profit_Calculation.dll
