@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Monthly_Course_Fee_Calculation/1.0.0": {
+        "runtime": {
+          "Monthly_Course_Fee_Calculation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Monthly_Course_Fee_Calculation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

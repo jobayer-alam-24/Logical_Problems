@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Monthly_Course_Fee_Calculation\bin\Debug\net9.0\Monthly_Course_Fee_Calculation.exe
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Monthly_Course_Fee_Calculation\bin\Debug\net9.0\Monthly_Course_Fee_Calculation.deps.json
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Monthly_Course_Fee_Calculation\bin\Debug\net9.0\Monthly_Course_Fee_Calculation.runtimeconfig.json
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Monthly_Course_Fee_Calculation\bin\Debug\net9.0\Monthly_Course_Fee_Calculation.dll
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Monthly_Course_Fee_Calculation\bin\Debug\net9.0\Monthly_Course_Fee_Calculation.pdb
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Monthly_Course_Fee_Calculation\obj\Debug\net9.0\Monthly_Course_Fee_Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Monthly_Course_Fee_Calculation\obj\Debug\net9.0\Monthly_Course_Fee_Calculation.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Monthly_Course_Fee_Calculation\obj\Debug\net9.0\Monthly_Course_Fee_Calculation.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Monthly_Course_Fee_Calculation\obj\Debug\net9.0\Monthly_Course_Fee_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Monthly_Course_Fee_Calculation\obj\Debug\net9.0\Monthly_Course_Fee_Calculation.sourcelink.json
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Monthly_Course_Fee_Calculation\obj\Debug\net9.0\Monthly_Course_Fee_Calculation.dll
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Monthly_Course_Fee_Calculation\obj\Debug\net9.0\refint\Monthly_Course_Fee_Calculation.dll
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Monthly_Course_Fee_Calculation\obj\Debug\net9.0\Monthly_Course_Fee_Calculation.pdb
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Monthly_Course_Fee_Calculation\obj\Debug\net9.0\Monthly_Course_Fee_Calculation.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Documents\Logical_Problems\Monthly_Course_Fee_Calculation\obj\Debug\net9.0\ref\Monthly_Course_Fee_Calculation.dll
